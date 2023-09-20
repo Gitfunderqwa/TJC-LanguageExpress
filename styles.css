@@ -1,0 +1,36 @@
+.btn-primary {
+    background-color: #0A3E73 !important;
+    border: none !important;
+    color: #fff !important;
+}
+.btn {
+    border: 1px solid #BF9651;
+    color: #BF9651;
+}
+.nav-link {
+    background-color: none;
+    color: #FFF;
+}
+
+.active {
+    background-color: #0A3E73 !important;
+    border: 1px solid #fff !important;
+}
+
+.nav-link:hover {
+    background-color: hsla(0, 0%, 100%, 0.1) !important;
+    border: 1px solid #fff !important;
+    color: #FFF;
+}
+
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+.blue  {
+    background-color: #0A3E73;
+}
+
+.img-rounded {
+    border-radius: 100%;
+    
+}
